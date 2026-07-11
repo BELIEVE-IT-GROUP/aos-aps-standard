@@ -1,0 +1,44 @@
+{
+  "claim": "Trust Logistics reduced picking errors by 30% and improved delivery times by 15% across more than 300,000 traceable orders.",
+  "trials_per_cell": 5,
+  "models": {
+    "claude": {
+      "unsigned": {
+        "n": 5,
+        "trust": 72,
+        "would_recommend_pct": 100,
+        "high_credibility_pct": 0
+      },
+      "signed": {
+        "n": 5,
+        "trust": 72,
+        "would_recommend_pct": 100,
+        "high_credibility_pct": 0
+      },
+      "delta": {
+        "trust": 0,
+        "would_recommend_pct": 0,
+        "high_credibility_pct": 0
+      }
+    },
+    "gpt": {
+      "unsigned": {
+        "n": 5,
+        "trust": 72,
+        "would_recommend_pct": 100,
+        "high_credibility_pct": 0
+      },
+      "signed": {
+        "n": 5,
+        "trust": 94,
+        "would_recommend_pct": 100,
+        "high_credibility_pct": 100
+      },
+      "delta": {
+        "trust": 22,
+        "would_recommend_pct": 0,
+        "high_credibility_pct": 100
+      }
+    }
+  }
+}
