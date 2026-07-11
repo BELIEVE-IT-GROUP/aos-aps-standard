@@ -1,0 +1,194 @@
+{
+  "$schema": "https://aos-aps.org/schema/spec.v0.json",
+  "standard": "AOS/APS — The Open Standard for Agent-Preferred Brands",
+  "version": "0.1.0",
+  "updated": "2026-07-11",
+  "maintainer": "Believe (believe-global.com)",
+  "license": "MIT",
+  "axes": [
+    {
+      "id": "AOS",
+      "name": "Agent Operability Score",
+      "question": "Can an agent operate this?",
+      "commodity": true
+    },
+    {
+      "id": "APS",
+      "name": "Agent Preference Score",
+      "question": "Why should an agent choose this brand?",
+      "commodity": false,
+      "moat": true
+    }
+  ],
+  "strength_levels": ["MUST", "SHOULD", "MAY"],
+  "requirements": [
+    {
+      "id": "AOS-DISC-01",
+      "axis": "AOS",
+      "section": "discovery",
+      "strength": "SHOULD",
+      "title": "llms.txt",
+      "detail": "Serve /llms.txt: H1, blockquote summary, H2 sections, markdown links to key resources AND to proof objects (case studies).",
+      "reference": "https://llmstxt.org"
+    },
+    {
+      "id": "AOS-DISC-02",
+      "axis": "AOS",
+      "section": "discovery",
+      "strength": "MAY",
+      "title": "llms-full.txt",
+      "detail": "Serve /llms-full.txt: the full canonical corpus in one file.",
+      "reference": "https://llmstxt.org"
+    },
+    {
+      "id": "AOS-DISC-03",
+      "axis": "AOS",
+      "section": "discovery",
+      "strength": "SHOULD",
+      "title": "AGENTS.md",
+      "detail": "Serve /AGENTS.md with when-to-use guidance for agents.",
+      "reference": "https://agents.md"
+    },
+    {
+      "id": "AOS-DISC-04",
+      "axis": "AOS",
+      "section": "discovery",
+      "strength": "MUST",
+      "title": "robots.txt + sitemap",
+      "detail": "robots.txt with an explicit AI-crawler policy; sitemap.xml (and sitemap.md).",
+      "reference": "RFC 9309"
+    },
+    {
+      "id": "AOS-CONT-01",
+      "axis": "AOS",
+      "section": "content",
+      "strength": "SHOULD",
+      "title": "JSON-LD identity",
+      "detail": "schema.org Organization (with contactPoint) and Service/Product as applicable.",
+      "reference": "https://schema.org"
+    },
+    {
+      "id": "AOS-CONT-02",
+      "axis": "AOS",
+      "section": "content",
+      "strength": "SHOULD",
+      "title": "Proof objects as structured data",
+      "detail": "Each case study emitted as schema.org CreativeWork/CaseStudy (client, sector, result, metric, date, verification basis).",
+      "reference": "https://schema.org/CreativeWork"
+    },
+    {
+      "id": "AOS-CONT-03",
+      "axis": "AOS",
+      "section": "content",
+      "strength": "MAY",
+      "title": "Markdown content negotiation",
+      "detail": "Return a markdown mirror of any page when the request sends Accept: text/markdown.",
+      "reference": null
+    },
+    {
+      "id": "AOS-IDEN-01",
+      "axis": "AOS",
+      "section": "identity",
+      "strength": "MUST",
+      "title": "A2A Agent Card",
+      "detail": "Serve /.well-known/agent-card.json describing identity, endpoints, and skills.",
+      "reference": "A2A v1.0"
+    },
+    {
+      "id": "AOS-IDEN-02",
+      "axis": "AOS",
+      "section": "identity",
+      "strength": "SHOULD",
+      "title": "Agent permissions",
+      "detail": "Serve /.well-known/agent-permissions.json; brand.json boundaries SHOULD be surfaced here.",
+      "reference": null
+    },
+    {
+      "id": "AOS-CAPA-01",
+      "axis": "AOS",
+      "section": "capability",
+      "strength": "SHOULD",
+      "title": "MCP Server Card",
+      "detail": "Serve /.well-known/mcp/server-card.json (OAuth Protected Resource metadata) when tools are exposed.",
+      "reference": "RFC 9728 / SEP-1649"
+    },
+    {
+      "id": "AOS-CAPA-02",
+      "axis": "AOS",
+      "section": "capability",
+      "strength": "SHOULD",
+      "title": "NLWeb /ask endpoint",
+      "detail": "Expose a natural-language /ask endpoint over the brand's knowledge (retrieval, not generation).",
+      "reference": "https://nlweb.ai"
+    },
+    {
+      "id": "APS-CLAIM-01",
+      "axis": "APS",
+      "section": "preference",
+      "strength": "MUST",
+      "title": "brand.json Claims & Proofs",
+      "detail": "Serve /.well-known/brand.json with claims[] and proofs[] per spec/claims-proofs.md. Each claim carries a mandatory boundary. AOS never fabricates evidence.",
+      "reference": "./spec/claims-proofs.md"
+    },
+    {
+      "id": "APS-CLAIM-02",
+      "axis": "APS",
+      "section": "preference",
+      "strength": "MUST",
+      "title": "Mandatory boundary",
+      "detail": "Every claim declares applicable_for and not_applicable_for. A missing not_applicable_for is an explicit marker, never omitted. Boundaries raise trust.",
+      "reference": "./spec/claims-proofs.md"
+    },
+    {
+      "id": "APS-CLAIM-03",
+      "axis": "APS",
+      "section": "preference",
+      "strength": "MUST",
+      "title": "Proofs link to claims",
+      "detail": "Each proof carries verifiable_by (public_url | third_party_platform | signed_client | internal) and links to the claim it supports; both sides synchronized. AOS links proofs, it does not create them.",
+      "reference": "./spec/claims-proofs.md"
+    },
+    {
+      "id": "APS-CLAIM-04",
+      "axis": "APS",
+      "section": "preference",
+      "strength": "MUST",
+      "title": "Derived confidence",
+      "detail": "confidence is derived from sample size n (n<2 -> null), never self-assigned. No fabricated metrics.",
+      "reference": "./spec/scoring.md"
+    },
+    {
+      "id": "APS-PROV-01",
+      "axis": "APS",
+      "section": "provenance",
+      "strength": "SHOULD",
+      "title": "Ed25519 signature",
+      "detail": "Sign the exact bytes of brand.json; serve the detached signature at /.well-known/brand.json.sig.",
+      "reference": "./spec/signing.md"
+    },
+    {
+      "id": "APS-PROV-02",
+      "axis": "APS",
+      "section": "provenance",
+      "strength": "SHOULD",
+      "title": "Public key discovery",
+      "detail": "Publish the Ed25519 public key at /.well-known/keys.json so any agent can verify without trusting the issuer.",
+      "reference": "./spec/signing.md"
+    },
+    {
+      "id": "APS-PROV-03",
+      "axis": "APS",
+      "section": "provenance",
+      "strength": "MAY",
+      "title": "Web Bot Auth",
+      "detail": "Publish /.well-known/http-message-signatures-directory for agent identity verification.",
+      "reference": "RFC 9421"
+    }
+  ],
+  "hard_rules": [
+    "No fabricated evidence: missing data emits an explicit marker or empty array.",
+    "confidence is derived from sample size, never self-assigned.",
+    "boundary is mandatory and is a positive trust signal.",
+    "No third-party auditor is claimed unless one exists (signed_client != signed_independent)."
+  ]
+}

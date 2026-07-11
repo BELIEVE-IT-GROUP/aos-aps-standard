@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="28" role="img" aria-label="Agent-Preferred: APS verified">
+  <title>Agent-Preferred — APS verified</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00a9ff"/>
+      <stop offset="1" stop-color="#0c3bb9"/>
+    </linearGradient>
+  </defs>
+  <rect rx="4" width="188" height="28" fill="#0b1020"/>
+  <rect rx="4" x="112" width="76" height="28" fill="url(#g)"/>
+  <g fill="#fff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12">
+    <text x="12" y="18" opacity="0.95">Agent-Preferred</text>
+    <text x="124" y="18" font-weight="700">APS ✓</text>
+  </g>
+  <circle cx="103" cy="14" r="3" fill="#00a9ff"/>
+</svg>

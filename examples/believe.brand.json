@@ -1,0 +1,380 @@
+{
+  "$schema": "https://maasy.ai/schema/brand-profile/v1.json",
+  "version": 1,
+  "brand": {
+    "name": "Believe",
+    "updated_at": "2026-07-11T00:00:00Z",
+    "website_url": "https://believe-global.com",
+    "industry": "Media y Publicidad"
+  },
+  "identity": {
+    "positioning": "═══ IDENTIDAD ═══\nDescripción: Believe es una consultora con infraestructura propietaria, fundada por Jorge Beltrán Liévano en 1998. No es una agencia: instala MAAS™ 3.0, marketing como sistema de preferencia — la marca como memoria viva que las personas prefieren y los agentes recomiendan. En la era donde las máquinas deciden, gana la marca más humana: un agente no se deja seducir por un eslogan, verifica quién eres de verdad. 10 frameworks, 3 fases, 180 días, ROI auditable. Believe instala el sistema a mano en cohorts cerrados; maasy lo opera en la nube con el Brand Brain™ embebido, consumible por cualquier agente vía MCP. No vende campañas: instala sistemas de preferencia.\nVertical: Infraestructura de marca para la era de agentes — marketing como sistema de preferencia (MAAS™ 3.0). LATAM enterprise.\nModelo: Instalación de MAAS™ 3.0 (sistema de preferencia) a mano, en cohorts cerrados: máximo 4 marcas simultáneas, 180 días, handover total — el cliente sale operando el sistema. LATAM enterprise; PyME y freelancers operan directo en maasy en la nube (Brand Brain™ consumible por agentes vía MCP). Ecosistema de partners certificados. La preferencia se mide en una escalera: SEO te posiciona, GEO te menciona, AOS™ te opera, APS™ te elige, HPI™ lo unifica.\n\n═══ PROPUESTA DE VALOR ═══\nResultado principal: Convertir el marketing en piezas sueltas en un sistema de preferencia MAAS™ 3.0: identidad, narrativa y operación alineadas, medibles y consumibles por agentes en 180 días. La marca se vuelve la que las personas prefieren y los agentes recomiendan — y opera sola, sin depender de campañas.\nCompetidores: Agencias de marketing (ejecutan lo que les piden, no instalan un sistema). Plataformas de marketing (features sin identidad ni narrativa). Believe no compite por servicio sino por categoría: sistema de preferencia vs. campañas aisladas. En la era agéntica, el competidor real es ser invisible o inoperable para los agentes que ya recomiendan marcas.\nDiferenciador: Believe no es una agencia: instala un sistema de preferencia. MAAS™ 3.0 (10 frameworks, 3 fases, 180 días, ROI auditable) apoyado en Neuronarrative Marketing™, la metodología humana —neurociencia, psicología y narrativa— con 27 años de validación. Instala y se retira: el cliente queda operando el sistema. Believe lo instala a mano; maasy lo opera en la nube con el Brand Brain™ embebido, consumible por cualquier agente vía MCP. No vende campañas: instala la capacidad de ser elegido por personas y por agentes.\nMiedo principal del cliente: Haber gastado en agencias y herramientas sin un sistema detrás: marketing fragmentado, ROI incierto, esfuerzo que no se acumula. El miedo profundo no es \"no vender\" — es seguir invirtiendo en piezas sueltas que nunca se vuelven un activo que crece solo, y depender siempre de alguien para que algo funcione. En la era agéntica hay un miedo nuevo: ser la marca que ningún agente puede operar ni recomendar cuando un cliente pregunta.\nObjeción secundaria: Percibir que un sistema propietario (MAAS™ 3.0) es demasiado complejo, lento o caro frente a contratar una agencia que \"haga todo\". La objeción real es miedo a otra dependencia. Reencuadre: Believe instala y se retira — el cliente queda operando el sistema; son 180 días con el sistema instalado, no un contrato eterno.\n\n═══ CLIENTE IDEAL ═══\nRol: Director de Marketing (CMO), Director General (CEO), Director de Operaciones (COO), o Propietario de Negocio.\nEdad: 30-55 años. Este rango abarca a profesionales experimentados en roles directivos que buscan soluciones estratégicas con un ROI medible y están abiertos a la innovación tecnológica.\nRegión: Colombia, México y Estados Unidos, focalizándose en ciudades clave con alta concentración de PYMES y grandes corporaciones, como Bogotá, Medellín, Ciudad de México, Monterrey, Miami y Los Ángeles.\nSituación actual: El equipo (CMO / CEO / fundador) tiene el marketing en piezas sueltas: agencias, herramientas y campañas que no se conectan ni se acumulan. ROI difícil de probar, dependencia de terceros para que algo funcione, y la sensación de invertir sin construir un activo. Saben que les falta un sistema, pero no tienen el método para instalarlo.\nSituación deseada: Operar la marca como un sistema: identidad, narrativa y operación alineadas, medibles y conectadas. Crecimiento que no depende de campañas sueltas ni de un proveedor — el equipo queda con el sistema instalado y la capacidad de operarlo. La marca se siente inevitable: la eligen las personas y la recomiendan los agentes.\nCanales: Google Ads, Meta Ads, LinkedIn, TikTok, Email, Referral, SEO, Instagram orgánico\n\n═══ VOZ Y TONO ═══\nTono: Autoridad tranquila, Editorial, Preciso, Sistémico, Calmado, Específico\nEstilo de pronombres: Tú (tuteo)\nEmojis: Mínimo (1-2)\nEjemplo positivo: \"No vendemos campañas. Instalamos sistemas de preferencia. Believe instala MAAS™ 3.0 —10 frameworks, 3 fases, 180 días, ROI auditable— sobre Neuronarrative Marketing™, 27 años de validación. maasy lo opera en la nube: el Brand Brain™ comprime tu marca de ~25.000 a ~3.000 tokens, consumible por cualquier agente vía MCP. SEO te posiciona, GEO te menciona, AOS™ te opera, APS™ te elige.\"\nEjemplo negativo (evitar): \"Solución integral, innovadora y disruptiva que multiplica tus resultados con nuestro sistema revolucionario. Gestionamos tus redes y llevamos tu marca al siguiente nivel para que crezcas como nunca.\"\nPalabras prohibidas: estrategia (usar: sistema), implementar (usar: instalar), audiencia (usar: cohort), insight (usar: señal), escalar (usar: repetir), ejecución (usar: operación), solución integral, disruptivo, revolucionario, innovador, llevar al siguiente nivel, gestionamos tus redes, vos, tenés, querés, podés, decime, dale, growtech, Vibe Marketing, estrategia 360, transformamos tu marca\n\n═══ VISUAL ═══\nColores: cta: #00a9ff, accent: #00a9ff, primary: #0c3bb9, secondary: #ffffff, background: #062778, body_dark_bg: #ffffff, body_light_bg: #000000, background_alt: #F3F1E8, heading_dark_bg: #ffffff, heading_light_bg: #0c3bb9\nFuente títulos: Fraunces\nFuente cuerpo: Inter\nEstilo visual: infografia\nPersonas: sin_personas\nProhibiciones visuales: stock_generico, demasiado_colorido, clipart, personas_posando\nEstilo de imagen: infografia\nMood fotográfico: neutro_editorial\nTratamiento de personas: sin_personas\nTratamiento de color: colores_marca\nComposición: minimalista_mucho_espacio\nElementos prohibidos: stock_generico, demasiado_colorido, clipart, personas_posando\nPrompt fragment: infographic style, data visualization, clean diagrams.\nneutral tones, editorial quality, muted, sophisticated.\nno people, no humans in frame.\nbrand color palette applied to image treatment.\nminimalist composition, abundant negative space, single focal point.\nno stock photos, no rainbow color schemes, no clipart or flat icons, no forced poses or fake smiles\n\n═══ REFERENCIAS ═══\nImágenes de producto: 8 archivos\n\n═══ PRUEBA SOCIAL ═══\nMétrica social: Más de 100 proyectos instalados con la metodología MAAS™ en Colombia, México y Estados Unidos.\nResultados: Aumento promedio de 35% en tasa de conversión y crecimiento sostenido de 20% en ventas tras instalar el sistema MAAS™. No es una campaña que funcionó: es un sistema que sigue produciendo sin depender de acciones sueltas.\nTestimonios: \"Con Believe y la metodología MAAS™ dejamos de gastar en marketing incierto: hoy operamos un sistema medible que crece solo. No contratamos una agencia — instalamos una capacidad.\" — Cliente B2B, LatAm\nPremios/menciones: 27 años de experiencia\n\n═══ CONFIG IA ═══\nIdioma: Español neutro\nExtensión copy: Corto\nUrgencia CTA: Bajo\nCTAs aprobados: Quiero mi sistema MAAS™ 🚀\nPrioridad funnel: TOFU (Awareness), MOFU (Consideration), BOFU (Decision), Retención, Referral\n\n═══ ÁNGULOS DE VENTA ═══\n[Por Trigger] (8):\n  • El CMO que exige datos a su equipo debería exigirlo a su agencia también. MAAS™ es el estándar que cierra esa brecha. → \"¿Pides ROI a tu equipo pero aceptas métricas de vanidad de tu agencia? Aquí termina esa incoherencia.\" (ICP: El Estratega Escéptico)\n  • 27 años instalando sistemas no es experiencia — es validación en el mundo real. MAAS™ es lo que aprendimos. → \"Believe lleva desde 1998 instalando sistemas de marketing. MAAS™ es lo que funciona después de 27 años.\" (ICP: El Estratega Escéptico)\n  • Tu agencia te manda alcance e impresiones cuando tú necesitas conversiones e ingresos. MAAS™ alinea exigencia con realidad. → \"Tú hablas de conversiones. Tu agencia habla de alcance. Alguien está hablando en el idioma equivocado.\" (ICP: El Estratega Escéptico)\n  • Cada proveedor optimiza su canal. Nadie optimiza tu negocio. MAAS™ hace vivir la marca como un sistema único. → \"SEO optimiza para búsqueda. Pauta optimiza para clics. Nadie optimiza para ingresos. MAAS™ sí.\" (ICP: El Visionario Abrumado)\n  • No contratas un proveedor que desaparece. Instalas una infraestructura que queda en tu empresa para siempre. → \"¿Cuántas veces has cambiado de agencia y volviste a empezar? Con MAAS™ instalas capacidad que crece con tu empresa.\" (ICP: El Visionario Abrumado)\n  ... +3 más\n[Por Dolor] (8):\n  • MAAS™ convierte acciones aisladas en un sistema vivo donde cada peso tiene trazabilidad directa a ingresos. → \"¿Dónde se fue ese presupuesto de $50K? En 10 canales diferentes sin saber cuál convirtió. MAAS™ termina eso.\" (ICP: El Estratega Escéptico)\n  • Las agencias tradicionales te venden silo por silo. MAAS™ integra identidad, narrativa y operación en un organismo vivo. → \"Tu agencia reporta 2M de alcance. Tú necesitas 50 clientes nuevos. Alguien está midiendo lo equivocado.\" (ICP: El Estratega Escéptico)\n  • El miedo profundo es perder autonomía. MAAS™ instala y se retira: quedas operando el sistema sin dependencia. → \"¿Cuántas veces el responsable de marketing fue el único que sabía cómo funcionaba todo? MAAS™ te libera de eso.\" (ICP: El Visionario Abrumado)\n  • El marketing fragmentado es gasto. MAAS™ es inversión que crece sola porque es un sistema, no una campaña. → \"Año pasado gastaste $200K. ¿Qué activo tienes hoy? Con MAAS™, tienes un sistema que produce sin parar.\" (ICP: El Visionario Abrumado)\n  • Has trabajado con 2-3 agencias que prometieron la luna y entregaron humo. MAAS™ opera diferente: es un sistema. → \"¿Otra agencia que te promete «llevar al siguiente nivel»? MAAS™ no promete campañas. Instala un sistema medible.\" (ICP: El Estratega Escéptico)\n  ... +3 más\n[Por Objetivo] (8):\n  • MAAS™ produce un piloto automático de crecimiento donde identidad, narrativa y operación operan como una unidad. → \"Un sistema vivo es lo opuesto a campañas aisladas. MAAS™ integra todo: identidad, narrativa, operación, resultados.\" (ICP: El Estratega Escéptico)\n  • MAAS™ instala y se retira. Tu equipo queda operando el sistema sin dependencia eterna de un tercero. → \"180 días de instalación. Después, tu equipo opera el sistema solo. Sin dependencia. Sin sorpresas.\" (ICP: El Visionario Abrumado)\n  • El CMO que implementa MAAS™ se convierte en arquitecto de crecimiento, no en gestor de agencias. → \"De ejecutor de tácticas a arquitecto de crecimiento. Ese es el cambio de rol que MAAS™ produce.\" (ICP: El Estratega Escéptico)\n  • MAAS™ produce un piloto automático de crecimiento. El CEO delega con confianza porque el sistema opera con lógica clara. → \"Instala MAAS™ y recupera tu tiempo. El sistema crece sin tu supervisión constante porque funciona con lógica clara.\" (ICP: El Visionario Abrumado)\n  • Del gasto incierto a la inversión predecible. MAAS™ te permite proyectar el crecimiento de ventas con certeza. → \"«¿Cuánto creceremos?» Con un sistema MAAS™, puedes responder esa pregunta con datos, no con esperanza.\" (ICP: El Visionario Abrumado)\n  ... +3 más\n[Por Etapa Funnel] (8):\n  • El marketing fragmentado es el enemigo silencioso. Educación sobre por qué tener SEO, pauta y redes por separado destruye ROI sin notarlo. → \"¿Tienes SEO, pauta y redes en silos diferentes? Eso que te parece normal está destruyendo tu ROI.\" (ICP: El Estratega Escéptico)\n  • Desnudamiento del modelo agencia tradicional: métricas de vanidad vs. métricas de negocio. Genera frustración constructiva. → \"Tu agencia te manda alcance. Tú necesitas conversión. Alguien está optimizando lo equivocado.\" (ICP: El Estratega Escéptico)\n  • Validación empática del CEO sin sonar a venta: «El marketing es un agujero negro para ti. Aquí está el por qué real.» → \"Te sientes abrumado por marketing porque nadie ha instalado un sistema claro. No es tu culpa.\" (ICP: El Visionario Abrumado)\n  • Desmitificación de MAAS™: cómo funciona el sistema en la práctica. Convierte lo abstracto en tangible. → \"MAAS™ no es magia. Son 10 frameworks, 3 fases, 180 días. Aquí está exactamente cómo funciona.\" (ICP: El Estratega Escéptico)\n  • Antes y después en métricas de negocio real: +35% conversión, +20% ventas sostenidas. Casos concretos de transformación. → \"100+ proyectos instalados. Resultado promedio: +35% conversión, +20% crecimiento de ventas sostenido.\" (ICP: El Estratega Escéptico)\n  ... +3 más\n[Por Emoción] (8):\n  • «He estado donde estás. He visto esto en 100 empresas. Aquí está el por qué real.» Genera confianza inmediata. → \"Entiendo tu frustración. Hemos visto este patrón en decenas de empresas. Aquí está lo que está roto.\" (ICP: El Visionario Abrumado)\n  • Cambia el frame: de «otro proveedor que me controla» a «una infraestructura que mi equipo opera». → \"No contratas un proveedor. Instalas una capacidad que queda en tu empresa para siempre.\" (ICP: El Visionario Abrumado)\n  • Posiciona al CMO como protagonista de la transformación: de ejecutor a estratega de crecimiento. → \"Del rol de «ejecutor de campañas» al rol de «arquitecto de crecimiento». Ese es el cambio que MAAS™ produce.\" (ICP: El Estratega Escéptico)\n  • Desnuda el modelo de agencias sin atacar: muestra evidencia de por qué no está diseñado para rendir cuentas reales. → \"Las agencias no pueden optimizar para tu éxito porque sus incentivos están en otros lado. Aquí está por qué.\" (ICP: El Estratega Escéptico)\n  • Transforma la ansiedad en seguridad: «Tu crecimiento ya no depende de suerte. Depende de un sistema.» → \"Recupera la paz mental de saber que el crecimiento es predecible porque está sistemizado, no basado en campañas.\" (ICP: El Visionario Abrumado)\n  ... +3 más\n[Universales] (8):\n  • El problema no es el presupuesto de marketing. Es la ausencia de sistema que convierte ese presupuesto en un activo. → \"No gastas demasiado en marketing. Gastas sin un sistema que acumule. Eso es diferente.\"\n  • Transformación: del gasto incierto a la inversión predecible. Ese cambio de mentalidad es lo que diferencia empresas que crecen de empresas que gastan. → \"Gasto incierto: presupuesto que desaparece. Inversión predecible: presupuesto que produce ingresos medibles.\"\n  • Las agencias tradicionales te venden acciones sueltas. Believe Global te instala un sistema. Eso es categoría diferente. → \"Agencia = ejecuta lo que le pides. Believe = instala la capacidad de ser elegido. Categorías diferentes.\"\n  • En la era agéntica, las máquinas recomiendan marcas. ¿La tuya está operada de forma que un agente pueda recomendarla? → \"Los agentes IA ya eligen marcas. ¿La tuya es legible y operada para que un agente te recomiende sin dudas?\"\n  • 100+ proyectos instalados. Resultado promedio: +35% conversión, +20% crecimiento de ventas. No es promesa. Es dato validado. → \"100+ empresas, 35% conversión, 20% ventas. Eso no es publicidad — es el resultado promedio de instalar MAAS™.\"\n  ... +3 más",
+    "business_description": "Believe es una consultora con infraestructura propietaria, fundada por Jorge Beltrán Liévano en 1998. No es una agencia: instala MAAS™ 3.0, marketing como sistema de preferencia — la marca como memoria viva que las personas prefieren y los agentes recomiendan. En la era donde las máquinas deciden, gana la marca más humana: un agente no se deja seducir por un eslogan, verifica quién eres de verdad. 10 frameworks, 3 fases, 180 días, ROI auditable. Believe instala el sistema a mano en cohorts cerrados; maasy lo opera en la nube con el Brand Brain™ embebido, consumible por cualquier agente vía MCP. No vende campañas: instala sistemas de preferencia.",
+    "differentiator": "Believe no es una agencia: instala un sistema de preferencia. MAAS™ 3.0 (10 frameworks, 3 fases, 180 días, ROI auditable) apoyado en Neuronarrative Marketing™, la metodología humana —neurociencia, psicología y narrativa— con 27 años de validación. Instala y se retira: el cliente queda operando el sistema. Believe lo instala a mano; maasy lo opera en la nube con el Brand Brain™ embebido, consumible por cualquier agente vía MCP. No vende campañas: instala la capacidad de ser elegido por personas y por agentes.",
+    "main_result": "Convertir el marketing en piezas sueltas en un sistema de preferencia MAAS™ 3.0: identidad, narrativa y operación alineadas, medibles y consumibles por agentes en 180 días. La marca se vuelve la que las personas prefieren y los agentes recomiendan — y opera sola, sin depender de campañas.",
+    "voice_tone": [
+      "Autoridad tranquila",
+      "Editorial",
+      "Preciso",
+      "Sistémico",
+      "Calmado",
+      "Específico"
+    ],
+    "approved_ctas": "Quiero mi sistema MAAS™ 🚀",
+    "voice_examples": {
+      "positive": "No vendemos campañas. Instalamos sistemas de preferencia. Believe instala MAAS™ 3.0 —10 frameworks, 3 fases, 180 días, ROI auditable— sobre Neuronarrative Marketing™, 27 años de validación. maasy lo opera en la nube: el Brand Brain™ comprime tu marca de ~25.000 a ~3.000 tokens, consumible por cualquier agente vía MCP. SEO te posiciona, GEO te menciona, AOS™ te opera, APS™ te elige.",
+      "negative": "Solución integral, innovadora y disruptiva que multiplica tus resultados con nuestro sistema revolucionario. Gestionamos tus redes y llevamos tu marca al siguiente nivel para que crezcas como nunca."
+    }
+  },
+  "visual": {
+    "primary_colors": [
+      "#0c3bb9",
+      "#00a9ff",
+      "#ffffff"
+    ],
+    "logo_url": "https://esptwxlgdbblvnmdpoao.supabase.co/storage/v1/object/public/project-assets/fd41b157-f8d5-47a7-8e27-2035b86f8294/brand/logo-dark_bg-1780966546973.png",
+    "fonts": [
+      "Fraunces",
+      "Inter",
+      "JetBrains Mono"
+    ],
+    "avoid": [
+      "stock_generico",
+      "demasiado_colorido",
+      "clipart",
+      "personas_posando"
+    ],
+    "design_system": {
+      "available_via_mcp": true,
+      "tool": "get_design_md"
+    }
+  },
+  "agent_guidance": {
+    "avoid_claims": [
+      "estrategia (usar: sistema)",
+      "implementar (usar: instalar)",
+      "audiencia (usar: cohort)",
+      "insight (usar: señal)",
+      "escalar (usar: repetir)",
+      "ejecución (usar: operación)",
+      "solución integral",
+      "disruptivo",
+      "revolucionario",
+      "innovador",
+      "llevar al siguiente nivel",
+      "gestionamos tus redes",
+      "vos",
+      "tenés",
+      "querés",
+      "podés",
+      "decime",
+      "dale",
+      "growtech",
+      "Vibe Marketing",
+      "estrategia 360",
+      "transformamos tu marca"
+    ]
+  },
+  "claims_proofs_version": "claims-proofs/v1",
+  "claims": [
+    {
+      "claim_id": "CLM-R01",
+      "statement": "Trust Logistics redujo errores de picking 30% y mejoró tiempos de entrega 15% sobre más de 300.000 órdenes trazables.",
+      "category": "outcome",
+      "metric": {
+        "n": "⚠ CONFIRMAR: nº de clientes del cohort",
+        "name": "Picking error reduction",
+        "unit": "percent_change",
+        "value": "-30%",
+        "window": "cohort 2024-2026",
+        "baseline": "operación previa del cliente"
+      },
+      "boundary": {
+        "applicable_for": "Operaciones de fulfillment con volumen consistente que necesitan demostrar confiabilidad con datos.",
+        "not_applicable_for": "Operaciones sin volumen estable ni datos operativos que medir (marcas muy chicas o sin sistema de tracking)."
+      },
+      "linked_proofs": [
+        "PRF-R01"
+      ],
+      "confidence": null
+    },
+    {
+      "claim_id": "CLM-R02",
+      "statement": "Felix logró la adopción de más de 500 expertos de mixología como canal de validación de su categoría (schorle).",
+      "category": "outcome",
+      "metric": {
+        "name": "Expert adoption",
+        "unit": "count",
+        "value": "500+"
+      },
+      "boundary": {
+        "applicable_for": "Marcas de producto que crean categoría nueva y necesitan validación de autoridad técnica.",
+        "not_applicable_for": "Marcas de producto sin categoría diferenciable, donde la validación de expertos no mueve la decisión de compra."
+      },
+      "linked_proofs": [
+        "PRF-R02"
+      ],
+      "confidence": null
+    },
+    {
+      "claim_id": "CLM-R03",
+      "statement": "Pawers construyó una base de más de 15.000 dueños operando bajo su curaduría experta, sin competir por volumen con el líder de categoría.",
+      "category": "outcome",
+      "metric": {
+        "name": "Active conscious owners",
+        "unit": "count",
+        "value": "15.000+"
+      },
+      "boundary": {
+        "applicable_for": "Marcas premium que necesitan posición defendible frente a un competidor de escala masiva.",
+        "not_applicable_for": "Marcas que compiten por precio y volumen masivo, donde gana el líder de escala y no el premium curado."
+      },
+      "linked_proofs": [
+        "PRF-R03"
+      ],
+      "confidence": null
+    },
+    {
+      "claim_id": "CLM-R04",
+      "statement": "WAW Trips creció sus ventas 400% desde agosto 2025 y superó los 5.000 viajeros que co-crearon experiencias bajo el sistema.",
+      "category": "outcome",
+      "metric": {
+        "n": 1,
+        "name": "Sales lift",
+        "unit": "percent_change",
+        "value": "+400%",
+        "window": "desde ago 2025",
+        "baseline": "ventas previas a la toma"
+      },
+      "boundary": {
+        "applicable_for": "Marcas de producto intangible/experiencial que compiten contra plataformas de precio.",
+        "not_applicable_for": "Marcas cuyo valor es puro precio o comodidad, sin componente experiencial ni de autor."
+      },
+      "linked_proofs": [
+        "PRF-R04"
+      ],
+      "confidence": null
+    },
+    {
+      "claim_id": "CLM-R05",
+      "statement": "En ON!, 8 de cada 10 franquiciados generan sus primeras comisiones dentro de los primeros 30 días.",
+      "category": "outcome",
+      "metric": {
+        "name": "Time to first commission",
+        "unit": "ratio",
+        "value": "80% en <30 días"
+      },
+      "boundary": {
+        "applicable_for": "Modelos de negocio nuevos que el mercado aún no sabe nombrar.",
+        "not_applicable_for": "Negocios ya establecidos en una categoría conocida; el resultado aplica cuando el mercado aún no sabe nombrar el modelo."
+      },
+      "linked_proofs": [
+        "PRF-R05"
+      ],
+      "confidence": null
+    },
+    {
+      "claim_id": "CLM-R06",
+      "statement": "En Envía Ya, un ledger y un sistema de WhatsApp recovery subieron las ventas 30% y recuperan el 65% de los abandonos en envíos y generación de guías.",
+      "category": "outcome",
+      "metric": {
+        "n": 1,
+        "name": "Sales lift + cart recovery",
+        "unit": "percent_change",
+        "value": "+30% ventas / 65% recuperación de abandonos",
+        "window": "desde feb 2026",
+        "baseline": "operación previa a la instalación"
+      },
+      "boundary": {
+        "applicable_for": "Operaciones con abandono medible en el flujo de envíos/guías donde se puede instalar recuperación por WhatsApp.",
+        "not_applicable_for": "Operaciones sin abandono medible en el flujo de envíos/guías, o sin canal de WhatsApp con sus clientes."
+      },
+      "linked_proofs": [
+        "PRF-R06"
+      ],
+      "confidence": null
+    }
+  ],
+  "proofs": [
+    {
+      "proof_id": "PRF-R01",
+      "type": "case_study",
+      "title": "Trust Logistics — control operacional con evidencia auditable",
+      "claim_refs": [
+        "CLM-R01"
+      ],
+      "evidence": {
+        "summary": "300.000+ órdenes trazables. -30% errores de picking (promedio del cohort). +15% tiempos de entrega. Testimonio: 'Sabemos exactamente dónde está cada orden y podemos demostrarlo a nuestros clientes.' — CEO, tienda de moda, cohort 2024.",
+        "client": "Trust Logistics International"
+      },
+      "verification": {
+        "verifiable_by": "signed_client",
+        "source_uri": "https://believe-global.com/casos#trust",
+        "date_verified": null,
+        "external_auditor": null
+      },
+      "confidentiality": "public",
+      "signature": {
+        "algorithm": "Ed25519",
+        "value": "r4Lb6MSPtDRjfwCOcbpI4cZv+X4JdCzIwshnQg4HxctudsmOXl9gkMR/gM6+/vp0MpDJiobii/IL0G1Uji6PAQ==",
+        "signer_role": "signed_provenance",
+        "signed_at": "2026-07-11T06:30:09.396Z"
+      },
+      "key_ref": {
+        "public_key_id": "believe-2026-primary",
+        "keys_uri": "https://believe-global.com/.well-known/keys.json"
+      }
+    },
+    {
+      "proof_id": "PRF-R02",
+      "type": "case_study",
+      "title": "Felix Schorle — categoría nueva validada por expertos",
+      "claim_refs": [
+        "CLM-R02"
+      ],
+      "evidence": {
+        "summary": "500+ expertos de mixología operan con Felix en sus barras como prueba social hacia el consumidor final.",
+        "client": "Felix Schorle"
+      },
+      "verification": {
+        "verifiable_by": "signed_client",
+        "source_uri": "https://believe-global.com/casos#felix",
+        "date_verified": null,
+        "external_auditor": null
+      },
+      "confidentiality": "public",
+      "signature": {
+        "algorithm": "Ed25519",
+        "value": "+qrKXtVYdRc/e4ScNV3/MRRhDSY+zrtibV2y3h/zS2+XaIYWpQe/cfFFul7Hx0v3YgPLiT9tnGhQvVdn/5iXBA==",
+        "signer_role": "signed_provenance",
+        "signed_at": "2026-07-11T06:30:09.396Z"
+      },
+      "key_ref": {
+        "public_key_id": "believe-2026-primary",
+        "keys_uri": "https://believe-global.com/.well-known/keys.json"
+      }
+    },
+    {
+      "proof_id": "PRF-R03",
+      "type": "case_study",
+      "title": "Pawers — premium defendible frente a Laika",
+      "claim_refs": [
+        "CLM-R03"
+      ],
+      "evidence": {
+        "summary": "15.000+ dueños conscientes operando bajo la curaduría experta de Pawers.",
+        "client": "Pawers"
+      },
+      "verification": {
+        "verifiable_by": "signed_client",
+        "source_uri": "https://believe-global.com/casos#pawers",
+        "date_verified": null,
+        "external_auditor": null
+      },
+      "confidentiality": "public",
+      "signature": {
+        "algorithm": "Ed25519",
+        "value": "IxMThfAYSTURsmsGKJthFs7XEvOnJkXDjR0Abb2MU3UYbpzyR8NXDblNQRhgtBqrkTRoNiI5ks2tvziVMHzODQ==",
+        "signer_role": "signed_provenance",
+        "signed_at": "2026-07-11T06:30:09.396Z"
+      },
+      "key_ref": {
+        "public_key_id": "believe-2026-primary",
+        "keys_uri": "https://believe-global.com/.well-known/keys.json"
+      }
+    },
+    {
+      "proof_id": "PRF-R04",
+      "type": "case_study",
+      "title": "WAW Trips — +400% ventas en categoría intangible",
+      "claim_refs": [
+        "CLM-R04"
+      ],
+      "evidence": {
+        "summary": "+400% en ventas desde ago 2025. 5.000+ viajeros co-crearon experiencias. Testimonio: Laura P., diseñadora y CEO.",
+        "client": "WAW Trips"
+      },
+      "verification": {
+        "verifiable_by": "signed_client",
+        "source_uri": "https://believe-global.com/casos#waw",
+        "date_verified": null,
+        "external_auditor": null
+      },
+      "confidentiality": "public",
+      "signature": {
+        "algorithm": "Ed25519",
+        "value": "k9WXaML5V+hGC2USCEqnZ5IUGB3W6YSa+ioO8onY4XvtVAQt2iFekJgopQ2Qjp85zHHc5kvIJtPMx8YvvDVZAA==",
+        "signer_role": "signed_provenance",
+        "signed_at": "2026-07-11T06:30:09.396Z"
+      },
+      "key_ref": {
+        "public_key_id": "believe-2026-primary",
+        "keys_uri": "https://believe-global.com/.well-known/keys.json"
+      }
+    },
+    {
+      "proof_id": "PRF-R05",
+      "type": "case_study",
+      "title": "ON! — dialecto propio y activación en 30 días",
+      "claim_refs": [
+        "CLM-R05"
+      ],
+      "evidence": {
+        "summary": "8 de cada 10 ONprendedores generan comisiones dentro de los primeros 30 días de activar su franquicia.",
+        "client": "ON! (onprende.com)"
+      },
+      "verification": {
+        "verifiable_by": "signed_client",
+        "source_uri": "https://believe-global.com/casos#on",
+        "date_verified": null,
+        "external_auditor": null
+      },
+      "confidentiality": "public",
+      "signature": {
+        "algorithm": "Ed25519",
+        "value": "WOT5xSP7fc+65DxP2TyoJ+WHfFoVF55uLyTgc4V4pPgTekUs8UJLZ0onjfQaUue5fmDaPcgDc1cfe76OuMUCAg==",
+        "signer_role": "signed_provenance",
+        "signed_at": "2026-07-11T06:30:09.396Z"
+      },
+      "key_ref": {
+        "public_key_id": "believe-2026-primary",
+        "keys_uri": "https://believe-global.com/.well-known/keys.json"
+      }
+    },
+    {
+      "proof_id": "PRF-R06",
+      "type": "case_study",
+      "title": "Envía Ya — ledger + WhatsApp recovery",
+      "claim_refs": [
+        "CLM-R06"
+      ],
+      "evidence": {
+        "summary": "Ledger + sistema de WhatsApp recovery: +30% ventas y 65% de recuperación de abandonos en envíos y generación de guías.",
+        "client": "Envía Ya"
+      },
+      "verification": {
+        "verifiable_by": "signed_client",
+        "source_uri": null,
+        "date_verified": null,
+        "external_auditor": null
+      },
+      "confidentiality": "public",
+      "signature": {
+        "algorithm": "Ed25519",
+        "value": "sKm9TRKHUe74svI4Kd7saKg856xEORW3AzVVSiRSDZJfGdkegfWlOkhFpTiZ3TN1bwWtOe7tMlqzyCzDgPScAA==",
+        "signer_role": "signed_provenance",
+        "signed_at": "2026-07-11T06:30:09.396Z"
+      },
+      "key_ref": {
+        "public_key_id": "believe-2026-primary",
+        "keys_uri": "https://believe-global.com/.well-known/keys.json"
+      }
+    }
+  ],
+  "scores": {
+    "bfs": null,
+    "bbs": null,
+    "aps": 94
+  },
+  "generated_by": "Believe AOS™ — believe-global.com/aos"
+}
