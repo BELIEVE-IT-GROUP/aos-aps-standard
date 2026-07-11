@@ -6,7 +6,11 @@
 > That question is what decides recommendations, carts, and purchases in the agentic era. This standard measures it.
 
 **Maintained by [Believe](https://believe-global.com).** Version `0.1.0` (2026-07-11). License: MIT.
-Machine-readable spec: [`spec.json`](./spec.json). Agent entry point: [`AGENTS.md`](./AGENTS.md).
+Machine-readable spec: [`spec.json`](./spec.json). Agent entry point: [`AGENTS.md`](./AGENTS.md). Doctrine: [`MANIFESTO.md`](./MANIFESTO.md).
+
+**Live reference implementation:** [`believe-global.com/.well-known/brand.json`](https://believe-global.com/.well-known/brand.json) — a signed Agent-Readable Brand Profile (verify the [`.sig`](https://believe-global.com/.well-known/brand.json.sig) against [`keys.json`](https://believe-global.com/.well-known/keys.json)), plus a natural-language `/ask` endpoint over its Claims & Proofs.
+
+**Evidence:** a signed claim moved GPT-4o's trust +22 points and its high-credibility rate from 0% to 100%. See [`research/`](./research).
 
 ---
 
