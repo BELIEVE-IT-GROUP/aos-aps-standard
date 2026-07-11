@@ -1,0 +1,23 @@
+research/signed-claims-experiment.ts
+  s_c1dc02e2b090ac::t_e87fbedfeca9db 1-114
+research/README.md
+  s_c1dc02e2b090ac::t_75c82a9ea7571a 1-47
+research/results.json
+  s_c1dc02e2b090ac::t_2c5ac1fc8df8d2 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "d80d08820a63ef21965b8d59bf1f36db36751eed",
+  "prompts": {},
+  "sessions": {
+    "s_c1dc02e2b090ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a78fb314-3c1a-435f-a57c-d86e5416a6ec",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jbelieve <jorge@believe-global.com>"
+    }
+  }
+}
