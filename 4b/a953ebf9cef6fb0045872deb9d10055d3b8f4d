@@ -1,0 +1,24 @@
+badge/README.md
+  s_c1dc02e2b090ac::t_9edb4fd5fc8f82 7,11
+  s_c1dc02e2b090ac::t_c4025c3b3a386a 12
+badge/agent-preferred.svg
+  s_c1dc02e2b090ac::t_93d31a5539990a 1-2,9-15
+badge/agent-preferred-light.svg
+  s_c1dc02e2b090ac::t_f18d5f5bc0adfd 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "4ba953ebf9cef6fb0045872deb9d10055d3b8f4d",
+  "prompts": {},
+  "sessions": {
+    "s_c1dc02e2b090ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a78fb314-3c1a-435f-a57c-d86e5416a6ec",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jbelieve <jorge@believe-global.com>"
+    }
+  }
+}
