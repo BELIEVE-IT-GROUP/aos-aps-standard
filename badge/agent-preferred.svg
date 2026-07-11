@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="188" height="28" role="img" aria-label="Agent-Preferred: APS verified">
-  <title>Agent-Preferred — APS verified</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="46" viewBox="0 0 200 46" role="img" aria-label="Agent-Preferred — APS verified, powered by Believe">
+  <title>Agent-Preferred — APS verified · powered by Believe</title>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#00a9ff"/>
       <stop offset="1" stop-color="#0c3bb9"/>
     </linearGradient>
   </defs>
-  <rect rx="4" width="188" height="28" fill="#0b1020"/>
-  <rect rx="4" x="112" width="76" height="28" fill="url(#g)"/>
-  <g fill="#fff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12">
-    <text x="12" y="18" opacity="0.95">Agent-Preferred</text>
-    <text x="124" y="18" font-weight="700">APS ✓</text>
+  <rect rx="6" width="200" height="30" fill="#0d1730" stroke="#22345c"/>
+  <rect rx="6" x="118" width="82" height="30" fill="url(#g)"/>
+  <circle cx="108" cy="15" r="3" fill="#00a9ff"/>
+  <g font-family="Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="14" y="19" fill="#e8ecf6" font-size="12.5">Agent-Preferred</text>
+    <text x="131" y="19" fill="#ffffff" font-size="12.5" font-weight="700">APS ✓</text>
+    <text x="100" y="42" fill="#7f8db0" font-size="9" letter-spacing="0.06em" text-anchor="middle">powered by Believe</text>
   </g>
-  <circle cx="103" cy="14" r="3" fill="#00a9ff"/>
 </svg>

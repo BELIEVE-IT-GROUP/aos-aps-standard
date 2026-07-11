@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="46" viewBox="0 0 200 46" role="img" aria-label="Agent-Preferred — APS verified, powered by Believe">
+  <title>Agent-Preferred — APS verified · powered by Believe</title>
+  <rect rx="6" width="200" height="30" fill="#ffffff" stroke="#d6def0"/>
+  <rect rx="6" x="118" width="82" height="30" fill="#0c3bb9"/>
+  <circle cx="108" cy="15" r="3" fill="#0c3bb9"/>
+  <g font-family="Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="14" y="19" fill="#0a1020" font-size="12.5">Agent-Preferred</text>
+    <text x="131" y="19" fill="#ffffff" font-size="12.5" font-weight="700">APS ✓</text>
+    <text x="100" y="42" fill="#8a93a8" font-size="9" letter-spacing="0.06em" text-anchor="middle">powered by Believe</text>
+  </g>
+</svg>
