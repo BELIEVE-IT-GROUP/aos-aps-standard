@@ -1,0 +1,21 @@
+README.md
+  s_c1dc02e2b090ac::t_a37e27b283df26 9-13
+MANIFESTO.md
+  s_c1dc02e2b090ac::t_40fd12244f21be 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "bb7e9be1919511dca4da94927727d6bc66048e9c",
+  "prompts": {},
+  "sessions": {
+    "s_c1dc02e2b090ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a78fb314-3c1a-435f-a57c-d86e5416a6ec",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jbelieve <jorge@believe-global.com>"
+    }
+  }
+}
